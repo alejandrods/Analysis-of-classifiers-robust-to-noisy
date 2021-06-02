@@ -1,6 +1,6 @@
 # Analysis of classifiers robust to noisy labels
 
-![Paper](https://arxiv.org/abs/2106.00274)
+[[Paper](https://arxiv.org/abs/2106.00274)]
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jv1smzbxTI9vVtgZ962vpO2rMYb7Tx1G?usp=sharing)
 
